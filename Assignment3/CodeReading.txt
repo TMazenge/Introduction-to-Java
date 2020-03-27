@@ -1,0 +1,7 @@
+Code Reading question; What the program prints
+0
+3
+6
+15
+21
+21
